@@ -26,7 +26,7 @@ Steps: 1  :Stage Oracle 19c RDBMS software from edelivery.oracle.com.
 
 Summary commands: 
 
-1. Clone this repository:
+1. Clone this repository:########################
    git clone https://github.com/asiandevs/OracleDBAwithAnsible
 
 2. Stage the following Oracle Software on the control machine
